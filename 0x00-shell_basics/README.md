@@ -39,3 +39,5 @@
 : creates the directories inside each other in the current directory.
 * 103-commas
 :  a command that lists all the files and directories of the current directory, separated by commas (,).
+* school.mgc
+: Create a magic file school.mgc that can be used with the command file to detect School data files
