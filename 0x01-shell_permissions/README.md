@@ -17,3 +17,5 @@
 : Adds execution permission to the owner, the group owner and the other users
 * 8-James_Bond
 : Sets permission only to other users
+* 9-John_Doe
+: Executes permission
