@@ -27,3 +27,5 @@
 : creates a directory with some basic permissions
 * 13-change_group
 : A script that changes the group owner for a file 
+* 100-change_owner_and_group
+: Script that changes the owner and group owner of all files and directories
