@@ -11,3 +11,5 @@
 : Creates a new file
 * 5-execute
 : A script that adds execute permission to the owner of the file
+* 6-multiple_permissions
+: Adds permission to the owner and group owners
