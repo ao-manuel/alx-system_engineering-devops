@@ -9,3 +9,5 @@
 ; Changes owner of a file to another user
 * 4-empty
 : Creates a new file
+* 5-execute
+: A script that adds execute permission to the owner of the file
