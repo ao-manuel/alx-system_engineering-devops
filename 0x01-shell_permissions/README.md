@@ -31,3 +31,5 @@
 : Script that changes the owner and group owner of all files and directories
 * 101-symbolic_link_permissions
 : changes the owner and the group owner of a file respectively.
+* 102-if_only
+: changes a specified file owner to another specified user  
