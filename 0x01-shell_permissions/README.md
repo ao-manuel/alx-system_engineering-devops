@@ -29,3 +29,5 @@
 : A script that changes the group owner for a file 
 * 100-change_owner_and_group
 : Script that changes the owner and group owner of all files and directories
+* 101-symbolic_link_permissions
+: changes the owner and the group owner of a file respectively.
