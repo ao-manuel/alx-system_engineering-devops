@@ -6,7 +6,7 @@
 * 2-groups
 :  prints all the groups the current user is part of.
 * 3-new_owner
-; Changes owner of a file to another user
+: Changes owner of a file to another user
 * 4-empty
 : Creates a new file
 * 5-execute
@@ -23,3 +23,5 @@
 : references a file's mode to another
 * 11-directories_permissions
 : Execute permission to all subdirectories of the current directory for the owner, the group owner and all other users
+* 12-directory_permissions
+: creates a directory with some basic permissions
