@@ -19,3 +19,5 @@
 : Sets permission only to other users
 * 9-John_Doe
 : Executes permission
+* 10-mirror_permissions
+: references a file's mode to another
