@@ -21,3 +21,5 @@
 : Executes permission
 * 10-mirror_permissions
 : references a file's mode to another
+* 11-directories_permissions
+: Execute permission to all subdirectories of the current directory for the owner, the group owner and all other users
