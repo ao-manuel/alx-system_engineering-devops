@@ -13,3 +13,5 @@
 : A script that adds execute permission to the owner of the file
 * 6-multiple_permissions
 : Adds permission to the owner and group owners
+* 7-everybody
+: Adds execution permission to the owner, the group owner and the other users
