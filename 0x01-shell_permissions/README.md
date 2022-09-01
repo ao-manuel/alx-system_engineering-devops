@@ -7,3 +7,5 @@
 :  prints all the groups the current user is part of.
 * 3-new_owner
 ; Changes owner of a file to another user
+* 4-empty
+: Creates a new file
